@@ -1,0 +1,14 @@
+# Visual Studio
+.vs/
+**/.vs/
+*.user
+*.suo
+
+# Build output
+**/bin/
+**/obj/
+**/Debug/
+**/Release/
+
+# Restorable NuGet packages
+**/packages/
